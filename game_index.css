@@ -1,0 +1,71 @@
+header{
+    background-color: black;
+    max-width: 1400px;
+    margin: 20px auto 50px auto;   
+}
+
+header h1{
+    font-size: 50px;
+    color: yellow;
+    text-align: center;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.caixa{
+    max-width: 1000px;    
+    margin: 50px auto 70px auto;
+    border: solid yellow;
+    border-radius: 20px;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+        
+}
+
+.texto{
+    
+    padding: 20px;
+    font-size: 20px;
+    text-indent: 10px;
+    text-align: justify;
+    text-size-adjust: auto;
+    letter-spacing: 1px;
+}
+
+
+.botao{
+    max-width: 200px;
+    margin: 50px auto;
+    /* padding-left: 80px ; */
+    font-size: 14px;
+    
+}
+
+.botao p{
+    padding-bottom: 10px;
+    text-align: justify;
+    
+}
+
+.botao_texto{
+    max-width: 170px;
+    margin: 0 auto;
+   /*  padding-left: 45px; */
+    text-align: justify;
+}
+
+
+.btnDinamic{
+    max-width: 150px;
+    margin: 50px auto;
+
+}
+
+.autoria{
+    max-width: 200px;
+    margin: 0px auto;
+    text-align: justify;
+    font-style: italic;
+}
